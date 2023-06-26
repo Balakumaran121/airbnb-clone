@@ -6,7 +6,7 @@ function App() {
   return (
     <>
       <CssBaseline />
-      <Box sx={{ display: "flex", flexDirection: "column", heigth: "100vh" }}>
+      <Box sx={{ display: "flex", flexDirection: "column", height: "100vh" }}>
         <Box>
           <Header />
         </Box>
